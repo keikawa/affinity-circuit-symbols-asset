@@ -3,17 +3,14 @@ An asset which include circuit symbols for drawing schematics and block diagrams
 
 ## Screan shot
 
-![スクリーンショット (441)](https://user-images.githubusercontent.com/37934321/124695092-81396500-df1d-11eb-9ddc-9da4d8e44df7.png)
-
-## Example
+![afscreen](https://user-images.githubusercontent.com/37934321/124695670-9cf13b00-df1e-11eb-945e-ca4a56c5a554.png)
 
 ![example](https://user-images.githubusercontent.com/37934321/124695244-ca89b480-df1d-11eb-891d-9b5e19992d2d.png)
 
 ## Usage
 
-Download and import Schematic.afassets.
-
-## Recommended grid setting
+1. Download and import Schematic.afassets.
+2. Set the grid as follows
 
 ![image](https://user-images.githubusercontent.com/37934321/124695508-42f07580-df1e-11eb-936a-b39596ae08c8.png)
 
