@@ -10,7 +10,7 @@ An asset which include circuit symbols for drawing schematics and block diagrams
 1. Download and import Schematic.afassets.
 2. Set the grid as follows
 
-![image](https://user-images.githubusercontent.com/37934321/124695508-42f07580-df1e-11eb-936a-b39596ae08c8.png)
+![gridsetting](https://user-images.githubusercontent.com/37934321/124695947-21dc5480-df1f-11eb-8695-b50e777268e2.png)
 
 ## Contribution
 
