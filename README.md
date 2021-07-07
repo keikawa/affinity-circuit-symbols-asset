@@ -5,8 +5,6 @@ An asset which include circuit symbols for drawing schematics and block diagrams
 
 ![afscreen](https://user-images.githubusercontent.com/37934321/124695670-9cf13b00-df1e-11eb-945e-ca4a56c5a554.png)
 
-![example](https://user-images.githubusercontent.com/37934321/124695244-ca89b480-df1d-11eb-891d-9b5e19992d2d.png)
-
 ## Usage
 
 1. Download and import Schematic.afassets.
