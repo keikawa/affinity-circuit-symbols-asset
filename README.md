@@ -1,7 +1,7 @@
 # affinity-circuit-symbols-asset
 An asset which include circuit symbols for drawing schematics and block diagrams with Affinity Designer
 
-## Screan shot
+## Screen shot
 
 ![afscreen](https://user-images.githubusercontent.com/37934321/124695670-9cf13b00-df1e-11eb-945e-ca4a56c5a554.png)
 
