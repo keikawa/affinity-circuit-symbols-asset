@@ -7,8 +7,9 @@ An asset which include circuit symbols for drawing schematics and block diagrams
 
 ## Usage
 
-1. Download and import Schematic.afassets.
-2. Set the grid as follows
+1. Download and import Schematic.afassets. How to import assets is described in [this page](https://affinity.help/designer/en-US.lproj/index.html?page=pages/Appendix/importingAssets.html?title=Importing%20assets).
+
+1. Set the grid as follows, and enable snapping.
 
 ![gridsetting](https://user-images.githubusercontent.com/37934321/124695947-21dc5480-df1f-11eb-8695-b50e777268e2.png)
 
