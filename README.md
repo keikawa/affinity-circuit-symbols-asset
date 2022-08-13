@@ -5,13 +5,13 @@ An asset which include circuit symbols for drawing schematics and block diagrams
 
 ![afscreen](https://user-images.githubusercontent.com/37934321/124695670-9cf13b00-df1e-11eb-945e-ca4a56c5a554.png)
 
-## Usage
+## Usage and Recommended Settings
 
 1. Download and import Schematic.afassets. How to import assets is described in [this page](https://affinity.help/designer/en-US.lproj/index.html?page=pages/Appendix/importingAssets.html?title=Importing%20assets).
 
-1. Set the grid as follows, and enable snapping.
+1. Enable snapping, and Turn on the "Snap to object bounding boxes".
 
-![gridsetting](https://user-images.githubusercontent.com/37934321/124695947-21dc5480-df1f-11eb-8695-b50e777268e2.png)
+![slice1](https://user-images.githubusercontent.com/37934321/184475085-23c5d0ab-c5ca-41f3-adb4-74b0ab5ffbe5.svg)
 
 ## Contribution
 
