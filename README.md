@@ -9,7 +9,7 @@ An asset which include circuit symbols for drawing schematics and block diagrams
 
 1. Download and import Schematic.afassets. How to import assets is described in [this page](https://affinity.help/designer/en-US.lproj/index.html?page=pages/Appendix/importingAssets.html?title=Importing%20assets).
 
-1. Enable snapping, and urn on the "Snap to object bounding boxes".
+1. Enable snapping, and turn on "Snap to object bounding boxes".
 
 <img src="https://user-images.githubusercontent.com/37934321/184475175-5b4ee452-1b54-4226-b672-80a92bed1584.png" width="320px">
 
