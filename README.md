@@ -13,6 +13,8 @@ An asset which include circuit symbols for drawing schematics and block diagrams
 
 <img src="https://user-images.githubusercontent.com/37934321/184475175-5b4ee452-1b54-4226-b672-80a92bed1584.png" width="320px">
 
+Tips: The schematic symbols are designed with 1-pt line width. To draw the wiring, you can use a "Pen Tool" with a 1-pt line width.
+
 ## Author
 
 Keisuke Kawahara  
