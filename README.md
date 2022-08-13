@@ -5,6 +5,9 @@ An asset which include circuit symbols for drawing schematics and block diagrams
 
 ![afscreen](https://user-images.githubusercontent.com/37934321/124695670-9cf13b00-df1e-11eb-945e-ca4a56c5a554.png)
 
+
+<img src="https://user-images.githubusercontent.com/37934321/184477590-231a4940-c93d-4773-83d0-ed97f0395392.png" width="1000px">
+
 ## Usage and Recommended Settings
 
 1. Download and import Schematic.afassets. How to import assets is described in [this page](https://affinity.help/designer/en-US.lproj/index.html?page=pages/Appendix/importingAssets.html?title=Importing%20assets).
