@@ -22,10 +22,6 @@ An asset which include circuit symbols for drawing schematics and block diagrams
 
 Tips: The schematic symbols are designed with 1-pt line width. To draw the wiring, you can use a "Pen Tool" with a 1-pt line width.
 
-## Designer
-
-Keisuke Kawahara  
-
 ## Licence
 
 MIT Licence
