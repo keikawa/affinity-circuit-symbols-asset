@@ -2,10 +2,6 @@
 
 An asset which include circuit symbols for drawing schematics and block diagrams with Affinity Designer
 
-You can easily draw beautiful "paper-quality" schematics.
-
-<img src="https://github.com/keikawa/affinity-circuit-symbols-asset/assets/37934321/aeb6e3cf-756c-4f19-85e2-3b7f53df08b8" width="800px">
-
 ## Screen shot
 
 <img src="https://user-images.githubusercontent.com/37934321/124695670-9cf13b00-df1e-11eb-945e-ca4a56c5a554.png" width="800px">
