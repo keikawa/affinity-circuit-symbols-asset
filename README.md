@@ -1,5 +1,13 @@
 # affinity-circuit-symbols-asset
 
+<p align="left">
+  <a href="https://github.com/keikawa/affinity-circuit-symbols-asset/raw/main/Schematic.afassets">
+    <img alt="Download Schematic.afassets"
+         src="https://img.shields.io/badge/Download-Schematic.afassets-2ea44f?style=for-the-badge">
+  </a>
+</p>
+
+
 An asset which include circuit symbols for drawing schematics and block diagrams with Affinity Designer
 
 ## Screen shot
