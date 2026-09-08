@@ -10,7 +10,7 @@
 
 An asset which include circuit symbols for drawing schematics and block diagrams with Affinity Designer
 
-Other versions: [Inkscape](https://github.com/keikawa/InkscapeCircuitSymbols) · [Adobe Illustrator](https://github.com/keikawa/illustrator-circuit-symbols)
+Other versions: [Adobe Illustrator](https://github.com/keikawa/illustrator-circuit-symbols) · [Inkscape](https://github.com/keikawa/InkscapeCircuitSymbols)
 
 ## Screen shot
 
